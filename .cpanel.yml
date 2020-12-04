@@ -1,0 +1,14 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ahmadza3/kondanganvirtual.com/
+    - /bin/cp -R public $DEPLOYPATH
+    - /bin/cp -R src $DEPLOYPATH
+    - /bin/cp .eslintrc.js $DEPLOYPATH
+    - /bin/cp .gitignore $DEPLOYPATH
+    - /bin/cp .prettierrc $DEPLOYPATH 
+    - /bin/cp README.md $DEPLOYPATH
+    - /bin/cp babel.config.js $DEPLOYPATH
+    - /bin/cp debug.log $DEPLOYPATH
+    - /bin/cp package-lock.json $DEPLOYPATH
+    - /bin/cp package.json $DEPLOYPATH
