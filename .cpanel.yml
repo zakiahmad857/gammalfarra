@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ahmadza3/kondanganvirtual.com/
+    - export DEPLOYPATH=/home/ahmadza3/tersiar.id/gammalfarra
     - /bin/cp -R public $DEPLOYPATH
     - /bin/cp -R src $DEPLOYPATH
     - /bin/cp .eslintrc.js $DEPLOYPATH
