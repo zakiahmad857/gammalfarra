@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ahmadza3/gammalfarra222/
+    - export DEPLOYPATH=/home/ahmadza3/gammalfarra222
     - /bin/cp -R public $DEPLOYPATH
     - /bin/cp -R src $DEPLOYPATH
     - /bin/cp .eslintrc.js $DEPLOYPATH
