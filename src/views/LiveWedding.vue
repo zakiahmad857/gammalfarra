@@ -99,9 +99,9 @@
             <iframe
               width="560"
               height="315"
-              src="https://www.youtube.com/embed/TeT0x_H7HUs"
+              src="https://www.youtube.com/embed/4m7A3i5CR-g"
               frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allow="accelerometer; autoplay; muted; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
             ></iframe>
           </div>
